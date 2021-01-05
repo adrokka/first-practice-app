@@ -1,0 +1,21 @@
+.UserOutput {
+    display: inline-block;
+    vertical-align: top;
+    width: 27%;
+    margin: 16px;
+    padding: 16px;
+    border: 1px solid #454545;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px #545454;
+    font-weight: bold;
+}
+
+.UserOutput .user-name {
+    color: rgba(53, 0, 122, 0.829);
+    pointer-events: none;
+}
+
+.UserOutput .user-info {
+    color: rgba(148, 0, 37, 0.705);
+    pointer-events: none;
+}
